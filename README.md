@@ -4,5 +4,5 @@
 - 🦀 I would like to work more with Rust.
 - 👯 Feel free to reach out if you would like to collaborate!
 - 💬 Ask me about Hockey, I am a big fan of the Columbus Blue Jackets but like to watch any teams play 🏒 🥅
-- 📫 How to reach me: rostma@oregonstate.edu
+- 📫 How to reach me: rostma@oregonstate.edu / https://www.linkedin.com/in/matthew-r123/
 - 😄 Pronouns: he/him/his
